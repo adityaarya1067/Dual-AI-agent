@@ -1,0 +1,7 @@
+✅ Used json.loads() instead of eval() to safely parse JSON.
+✅ Wrapped stream() calls in a try-except block to catch errors.
+✅ Added environment variable checks to avoid missing API key issues.
+✅ Printed the model name to confirm it's correctly set.
+✅ Improved error handling for unexpected failures.
+
+T
